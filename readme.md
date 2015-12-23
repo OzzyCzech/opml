@@ -1,0 +1,3 @@
+# OPML subscriptions...
+
+This is list of mine Feed subscriptions.
