@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+	<head>
+		<title>Feeds</title>
+	</head>
+	<body>
+		<outline htmlUrl="https://github.blog/category/engineering/" title="GitHub" text="GitHub" xmlUrl="https://github.com/blog/engineering.atom" type="rss" />
+		<outline xmlUrl="http://chrome.blogspot.com/feeds/posts/default?alt=rss" text="Google Chrome" title="Google Chrome" type="rss" htmlUrl="https://blog.google/products/chrome/" />
+		<outline xmlUrl="https://kacabipohorky.cz/feed/" type="rss" title="Kačabí pohorky" htmlUrl="https://kacabipohorky.cz/" text="Kačabí pohorky" />
+		<outline title="WebKit" htmlUrl="https://webkit.org" xmlUrl="https://webkit.org/feed/" type="rss" text="WebKit" />
+		<outline text="Apple" title="Apple">
+			<outline text="Daring Fireball" htmlUrl="https://daringfireball.net/" type="rss" xmlUrl="http://daringfireball.net/index.xml" title="Daring Fireball" />
+			<outline type="rss" xmlUrl="http://www.mactrast.com/feed/" title="MacTrast" htmlUrl="https://www.mactrast.com/" text="MacTrast" />
+			<outline htmlUrl="https://9to5mac.com/" xmlUrl="http://9to5mac.com/feed/" title="9to5Mac" type="rss" text="9to5Mac" />
+			<outline type="rss" xmlUrl="http://feeds.macrumors.com/MacRumors-All" htmlUrl="https://www.macrumors.com" text="MacRumors" title="MacRumors" />
+			<outline title="Cult of Mac" text="Cult of Mac" htmlUrl="https://www.cultofmac.com/" type="rss" xmlUrl="http://www.cultofmac.com/feed/" />
+			<outline title="AppleInsider News" type="rss" text="AppleInsider News" htmlUrl="https://appleinsider.com/rss/news" xmlUrl="http://www.appleinsider.com/appleinsider.rss" />
+			<outline type="rss" text="Ars Technica -Apple" htmlUrl="https://arstechnica.com" title="Ars Technica -Apple" xmlUrl="http://feeds.arstechnica.com/arstechnica/apple/" />
+			<outline text="MacWorld" title="MacWorld" htmlUrl="https://www.macworld.com" type="rss" xmlUrl="http://www.macworld.com/index.rss" /></outline>
+		<outline title="Apple DEV" text="Apple DEV">
+			<outline xmlUrl="http://developer.apple.com/news/rss/news.rss" title="Latest News - Apple Developer" text="Latest News - Apple Developer" type="rss" htmlUrl="https://developer.apple.com/news/" />
+			<outline title="Apple Machine Learning Research" text="Apple Machine Learning Research" xmlUrl="https://machinelearning.apple.com/rss.xml" htmlUrl="https://machinelearning.apple.com" type="rss" /></outline>
+		<outline title="CZ Blogs" text="CZ Blogs">
+			<outline type="rss" text="OzzyCzech.cz" title="OzzyCzech.cz" xmlUrl="https://ozzyczech.cz/rss.xml" htmlUrl="https://ozzyczech.cz/" />
+			<outline xmlUrl="https://www.vzhurudolu.cz/rss" type="rss" htmlUrl="https://www.vzhurudolu.cz" text="Vzhůru dolů" title="Vzhůru dolů" />
+			<outline text="Jan Tichý" title="Jan Tichý" htmlUrl="https://www.jantichy.cz" xmlUrl="https://www.jantichy.cz/feed" type="rss" /></outline>
+		<outline title="CZ Mags" text="CZ Mags">
+			<outline type="rss" xmlUrl="http://www.zive.cz/system/RSS.xml" text="Živě.cz" htmlUrl="https://www.zive.cz" title="Živě.cz" />
+			<outline htmlUrl="http://www.osel.cz/" xmlUrl="http://www.osel.cz/rss/rss.php" title="OSEL.cz" type="rss" text="OSEL.cz" />
+			<outline xmlUrl="http://www.lupa.cz/rss/clanky/" text="Lupa.cz - články a aktuality" title="Lupa.cz - články a aktuality" htmlUrl="https://www.lupa.cz/clanky/" type="rss" />
+			<outline htmlUrl="https://cc.cz/" text="CzechCrunch" xmlUrl="https://www.czechcrunch.cz/feed/" title="CzechCrunch" type="rss" /></outline>
+		<outline text="DEV" title="DEV">
+			<outline title="SitePoint" xmlUrl="http://feeds.feedburner.com/SitepointFeed" htmlUrl="https://www.sitepoint.com" text="SitePoint" type="rss" />
+			<outline title="Web Designer Depot" xmlUrl="http://feeds2.feedburner.com/webdesignerdepot" text="Web Designer Depot" htmlUrl="https://www.webdesignerdepot.com" type="rss" />
+			<outline title="Codrops" htmlUrl="https://tympanus.net/codrops" xmlUrl="http://feeds2.feedburner.com/tympanus" text="Codrops" type="rss" />
+			<outline text="DEV Community" type="rss" title="DEV Community" htmlUrl="https://dev.to" xmlUrl="https://dev.to/feed" /></outline>
+		<outline title="GitHub" text="GitHub">
+			<outline xmlUrl="http://developer.github.com/changes.atom" title="GitHub API Changes" type="rss" text="GitHub API Changes" htmlUrl="https://developer.github.com/" /></outline>
+		<outline text="Javascript" title="Javascript">
+			<outline xmlUrl="https://blog.npmjs.org/rss" htmlUrl="https://blog.npmjs.org/" text="The npm Blog" type="rss" title="The npm Blog" />
+			<outline text="Vercel News" xmlUrl="https://zeit.co/atom" htmlUrl="https://vercel.com/atom" type="rss" title="Vercel News" /></outline>
+		<outline title="React" text="React">
+			<outline text="Dan Abramov's Overreacted Blog RSS Feed" type="rss" xmlUrl="https://overreacted.io/rss.xml" htmlUrl="https://overreacted.io" title="Dan Abramov's Overreacted Blog RSS Feed" />
+			<outline type="rss" title="ui.dev's RSS Feed" text="ui.dev's RSS Feed" htmlUrl="https://ui.dev" xmlUrl="https://ui.dev/rss.xml" />
+			<outline type="rss" xmlUrl="http://facebook.github.io/react/feed.xml" text="React" htmlUrl="https://reactjs.org" title="React" /></outline>
+		<outline text="Techmags" title="Techmags">
+			<outline title="Mashable" text="Mashable" htmlUrl="https://mashable.com/feeds/rss/all" type="rss" xmlUrl="http://feeds.mashable.com/Mashable" />
+			<outline type="rss" text="Gizmodo" htmlUrl="https://gizmodo.com" xmlUrl="http://sploid.gizmodo.com/rss" title="Gizmodo" />
+			<outline type="rss" text="The Verge - All Posts" title="The Verge - All Posts" htmlUrl="https://www.theverge.com/" xmlUrl="http://www.theverge.com/rss/full.xml" />
+			<outline text="Lifehacker" xmlUrl="https://lifehacker.com/rss" type="rss" htmlUrl="https://lifehacker.com" title="Lifehacker" />
+			<outline text="Wired" title="Wired" xmlUrl="https://www.wired.com/feed/rss" type="rss" htmlUrl="https://www.wired.com" />
+			<outline xmlUrl="http://www.engadget.com/rss-full.xml" text="Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics" title="Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics" htmlUrl="https://www.engadget.com/" type="rss" />
+			<outline type="rss" htmlUrl="https://thenextweb.com" xmlUrl="http://feeds2.feedburner.com/thenextweb" title="The Next Web" text="The Next Web" />
+			<outline text="Crunch Hype" title="Crunch Hype" htmlUrl="https://techncruncher.blogspot.com/" type="rss" xmlUrl="http://feeds.feedburner.com/Techcrunch" /></outline>
+		<outline text="Tools" title="Tools">
+			<outline text="Atom Blog" type="rss" title="Atom Blog" htmlUrl="https://blog.atom.io/" xmlUrl="http://blog.atom.io/feed" /></outline>
+		<outline text="Webdesign" title="Webdesign">
+			<outline type="rss" title="Human Who Codes" htmlUrl="https://humanwhocodes.com/" xmlUrl="http://feeds.nczonline.net/blog/" text="Human Who Codes" />
+			<outline xmlUrl="http://feeds2.feedburner.com/Line25" type="rss" text="Line25.com" title="Line25.com" htmlUrl="https://line25.com/" />
+			<outline xmlUrl="https://joshwcomeau.com/rss.xml" title="Josh Comeau's blog" type="rss" text="Josh Comeau's blog" htmlUrl="https://www.joshwcomeau.com/" />
+			<outline type="rss" htmlUrl="https://m.signalvnoise.com/" xmlUrl="http://feeds.feedburner.com/37signals/beMH" text="Signal v. Noise" title="Signal v. Noise" />
+			<outline htmlUrl="http://maxogden.com/" type="rss" title="Max Ogden Blog" text="Max Ogden Blog" xmlUrl="http://maxogden.com/rss.xml" />
+			<outline title="Web Design – WebFX Blog" htmlUrl="https://www.webfx.com/blog" xmlUrl="http://feeds.feedburner.com/SixRevisions" type="rss" text="Web Design – WebFX Blog" />
+			<outline text="High Scalability" title="High Scalability" htmlUrl="http://highscalability.com/blog/" type="rss" xmlUrl="http://feeds.feedburner.com/HighScalability" />
+			<outline type="rss" xmlUrl="http://www.smashingmagazine.com/feed/" title="Articles on Smashing Magazine — For Web Designers And Developers" htmlUrl="https://www.smashingmagazine.com/" text="Articles on Smashing Magazine — For Web Designers And Developers" />
+			<outline htmlUrl="http://www.lukew.com" text="LukeW | Digital Product Design + Strategy" xmlUrl="http://feeds.feedburner.com/FunctioningForm" type="rss" title="LukeW | Digital Product Design + Strategy" />
+			<outline type="rss" title="CSS Author" htmlUrl="https://cssauthor.com" text="CSS Author" xmlUrl="http://feeds.feedburner.com/cssauthor" />
+			<outline xmlUrl="http://www.1stwebdesigner.com/feed/" text="1stWebDesigner" type="rss" title="1stWebDesigner" htmlUrl="https://1stwebdesigner.com/" />
+			<outline type="rss" htmlUrl="https://code.tutsplus.com" text="Envato Tuts+ Code" title="Envato Tuts+ Code" xmlUrl="http://feeds.feedburner.com/nettuts" /></outline>
+	</body>
+</opml>
